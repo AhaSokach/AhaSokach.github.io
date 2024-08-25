@@ -39,7 +39,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
 
-education:
+Publications:
   - area: PhD Artificial Intelligence
     institution: Stanford University
     date_start: 2016-01-01
